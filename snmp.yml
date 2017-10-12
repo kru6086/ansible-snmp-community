@@ -1,2 +1,2 @@
-snmp_read_only: bosspro
-snmp_read_write: bosspro
+snmp_read_only: bobssnmprw
+snmp_read_write: bossnmpro
